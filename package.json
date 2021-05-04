@@ -4,6 +4,7 @@
     "description": "A color theme with red, black and purple accent colours.",
     "version": "0.0.1",
     "publisher": "TheHalfBloodPrince",
+    "icon": "./assets/wild-flower-logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/the-halfbloodprince/Wild-Flower"
