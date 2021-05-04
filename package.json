@@ -1,0 +1,39 @@
+{
+    "name": "wild-flower",
+    "displayName": "Wild Flower",
+    "description": "A color theme with red, black and purple accent colours.",
+    "version": "0.0.1",
+    "publisher": "TheHalfBloodPrince",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/the-halfbloodprince/Wild-Flower"
+    },
+    "keywords": [
+        "dark",
+        "red",
+        "black",
+        "purple",
+        "blood",
+        "wild",
+        "flower",
+        "mystery",
+        "theme",
+        "cool",
+        "night"
+    ],
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wild Flower",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wild-flower-color-theme.json"
+            }
+        ]
+    }
+}
