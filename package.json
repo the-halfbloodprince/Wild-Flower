@@ -2,7 +2,7 @@
     "name": "wild-flower",
     "displayName": "Wild Flower",
     "description": "A color theme with red, black and purple accent colours.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "TheHalfBloodPrince",
     "icon": "./assets/wild-flower-logo.png",
     "repository": {
